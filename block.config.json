@@ -3,7 +3,9 @@
   "type": "package",
   "blockId": "I6YuLK7LMOFMWHecTPzKB",
   "source": {
-    "branch": "block_9May_B1_variant"
+    "branch": "block_9May_B1_variant",
+    "ssh": "git@github.com:grgshiji/9May_B1_variant.git",
+    "https": "https://github.com/grgshiji/9May_B1_variant.git"
   },
   "parentBlockIDs": [],
   "isPublic": true,
